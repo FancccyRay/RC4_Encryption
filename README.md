@@ -11,5 +11,5 @@ Input plaintext and key<br>
 Generate keystream<br>
 ciphertext = plaintext xor keystream
 
-#For example
+# Example
 ![image](https://github.com/FancccyRay/RC4_Encryption/blob/master/result.png)<br>
