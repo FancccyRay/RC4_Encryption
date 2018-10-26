@@ -9,9 +9,6 @@ Created on Mon Oct 22 09:14:23 2018
 
 def main():
     ##M means Plaintext
-#    M = ["S", "h", "e", "n", "z", "h", "e", "n", " ", 
-#            "U", "n", "i", "v", "e", "r", "s", "i", "t", "y"]
-    
     M = list(raw_input("Enter Plaintext please:"))
     key = list(raw_input("Enter key please:"))
     mv_len = len(M)
